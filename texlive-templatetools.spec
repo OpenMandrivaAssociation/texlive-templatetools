@@ -1,6 +1,6 @@
 Name:		texlive-templatetools
 Version:	34495
-Release:	1
+Release:	2
 Summary:	Commands useful in LaTeX templates
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/templatetools
